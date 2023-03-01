@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BagDownB3nny!
 - 👀 I’m interested in video games, technology.
 - 🌱 I’m currently learning computer science.
-- 💞️ I’m looking to collaborate on any beginner level projects.
 - 📫 How to reach me: darrensim999@gmail.com
 
 <!---
